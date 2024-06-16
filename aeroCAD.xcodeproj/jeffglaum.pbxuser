@@ -1,0 +1,621 @@
+// !$*UTF8*$!
+{
+	1F20700211E83EA30021A238 /* aeroCADXform.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1859, 734}}";
+			sepNavSelRange = "{330, 0}";
+			sepNavVisRange = "{0, 972}";
+		};
+	};
+	1F20700311E83EA30021A238 /* aeroCADXform.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1859, 3198}}";
+			sepNavSelRange = "{4260, 5}";
+			sepNavVisRange = "{3648, 1209}";
+		};
+	};
+	1F20700811E840100021A238 /* aeroCADFileIO.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 664}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 325}";
+		};
+	};
+	1F20700911E840100021A238 /* aeroCADFileIO.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 884}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{38, 1234}";
+		};
+	};
+	1F20700F11E847D10021A238 /* aeroCADLighting.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 670}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 460}";
+		};
+	};
+	1F20701011E847D10021A238 /* aeroCADLighting.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 1677}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1219}";
+		};
+	};
+	1F20701511E851E10021A238 /* aeroCADTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 971}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 531}";
+		};
+	};
+	1F30F4E71209CDB8006C7037 /* aeroCADLoftedSurf.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 715}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1352}";
+		};
+	};
+	1F30F4E81209CDB8006C7037 /* aeroCADLoftedSurf.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 4069}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3772, 2211}";
+		};
+	};
+	1F343FF211EE3FE700F91D75 /* aeroCADCommands.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 785}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 573}";
+		};
+	};
+	1F455C181203163D005A2EC6 /* aeroCADCurve.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 971}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1357}";
+		};
+	};
+	1F455C191203163D005A2EC6 /* aeroCADCurve.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1859, 6565}}";
+			sepNavSelRange = "{4721, 0}";
+			sepNavVisRange = "{4052, 1233}";
+		};
+	};
+	1FCEB07812DAAC17001B9D6D /* aeroCADPointVector3D.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 664}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 915}";
+		};
+	};
+	1FCEB07912DAAC17001B9D6D /* aeroCADPointVector3D.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 1001}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 837}";
+		};
+	};
+	1FE27F8B11E00C1500FFA580 /* aeroCADView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 971}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1130}";
+		};
+	};
+	1FE27F8C11E00C1500FFA580 /* aeroCADView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 7436}}";
+			sepNavSelRange = "{7157, 0}";
+			sepNavVisRange = "{9365, 1338}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* aeroCADAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1567, 971}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 705}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* aeroCADAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 1781}}";
+			sepNavSelRange = "{2384, 5}";
+			sepNavVisRange = "{2208, 322}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C547C6171321B14C0052D22F /* aeroCAD */;
+		activeTarget = 8D1107260486CEB800E47090 /* aeroCAD */;
+		breakpoints = (
+			C52847F2132B9B8200C094F6 /* aeroCADView.m:507 */,
+			C5284808132B9C6400C094F6 /* aeroCADView.m:552 */,
+		);
+		codeSenseManager = C547C61C1321B16B0052D22F /* Code sense */;
+		executables = (
+			C547C6171321B14C0052D22F /* aeroCAD */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					1277,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1389,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_SCM_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					1365,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1349,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328323973;
+			PBXWorkspaceStateSaveDate = 328323973;
+		};
+		perUserProjectItems = {
+			C528480A132B9CF300C094F6 /* PBXTextBookmark */ = C528480A132B9CF300C094F6 /* PBXTextBookmark */;
+			C528484F132BA17400C094F6 /* PBXTextBookmark */ = C528484F132BA17400C094F6 /* PBXTextBookmark */;
+			C5284850132BA17400C094F6 /* PBXTextBookmark */ = C5284850132BA17400C094F6 /* PBXTextBookmark */;
+			C5284851132BA17400C094F6 /* PBXTextBookmark */ = C5284851132BA17400C094F6 /* PBXTextBookmark */;
+			C5284852132BA17400C094F6 /* PBXTextBookmark */ = C5284852132BA17400C094F6 /* PBXTextBookmark */;
+			C528488B132BA41500C094F6 /* PBXTextBookmark */ = C528488B132BA41500C094F6 /* PBXTextBookmark */;
+			C5284890132BA45E00C094F6 /* PBXTextBookmark */ = C5284890132BA45E00C094F6 /* PBXTextBookmark */;
+			C5284891132BA45E00C094F6 /* PBXTextBookmark */ = C5284891132BA45E00C094F6 /* PBXTextBookmark */;
+			C5284892132BA45E00C094F6 /* PBXTextBookmark */ = C5284892132BA45E00C094F6 /* PBXTextBookmark */;
+			C5284893132BA45E00C094F6 /* PBXTextBookmark */ = C5284893132BA45E00C094F6 /* PBXTextBookmark */;
+			C536ED9E1391D45000F6E866 /* PBXTextBookmark */ = C536ED9E1391D45000F6E866 /* PBXTextBookmark */;
+			C536ED9F1391D45000F6E866 /* PBXTextBookmark */ = C536ED9F1391D45000F6E866 /* PBXTextBookmark */;
+			C536EDA01391D45000F6E866 /* PBXTextBookmark */ = C536EDA01391D45000F6E866 /* PBXTextBookmark */;
+			C547C6251323BAAF0052D22F /* PBXTextBookmark */ = C547C6251323BAAF0052D22F /* PBXTextBookmark */;
+			C547C6321323BAAF0052D22F /* PBXTextBookmark */ = C547C6321323BAAF0052D22F /* PBXTextBookmark */;
+			C547C6481323BC950052D22F /* PBXTextBookmark */ = C547C6481323BC950052D22F /* PBXTextBookmark */;
+			C547C64E1323BC950052D22F /* PBXBookmark */ = C547C64E1323BC950052D22F /* PBXBookmark */;
+			C547C69F1323BF1C0052D22F /* PBXTextBookmark */ = C547C69F1323BF1C0052D22F /* PBXTextBookmark */;
+			C547C6A81323BF460052D22F /* PBXTextBookmark */ = C547C6A81323BF460052D22F /* PBXTextBookmark */;
+			C55B3BB6132991E900CAD826 /* PBXTextBookmark */ = C55B3BB6132991E900CAD826 /* PBXTextBookmark */;
+			C56B3A3113298E7B0001D4C6 /* PBXTextBookmark */ = C56B3A3113298E7B0001D4C6 /* PBXTextBookmark */;
+			C56B3A3213298E7B0001D4C6 /* PBXTextBookmark */ = C56B3A3213298E7B0001D4C6 /* PBXTextBookmark */;
+			C56B3A3513298E7B0001D4C6 /* PBXTextBookmark */ = C56B3A3513298E7B0001D4C6 /* PBXTextBookmark */;
+			C56B3A3613298E7B0001D4C6 /* PBXBookmark */ = C56B3A3613298E7B0001D4C6 /* PBXBookmark */;
+			C56B3A3713298E7B0001D4C6 /* PBXBookmark */ = C56B3A3713298E7B0001D4C6 /* PBXBookmark */;
+			C56B3A3813298E7B0001D4C6 /* PBXBookmark */ = C56B3A3813298E7B0001D4C6 /* PBXBookmark */;
+			C56B3A3913298E7B0001D4C6 /* PBXBookmark */ = C56B3A3913298E7B0001D4C6 /* PBXBookmark */;
+			C56B3A3A13298E7B0001D4C6 /* PBXBookmark */ = C56B3A3A13298E7B0001D4C6 /* PBXBookmark */;
+		};
+		sourceControlManager = C547C61B1321B16B0052D22F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* aeroCAD */ = {
+		activeExec = 0;
+		executables = (
+			C547C6171321B14C0052D22F /* aeroCAD */,
+		);
+	};
+	C52847F2132B9B8200C094F6 /* aeroCADView.m:507 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1FE27F8C11E00C1500FFA580 /* aeroCADView.m */;
+		functionName = "-drawCoord";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 507;
+		location = aeroCAD;
+		modificationTime = 321626720.1499799;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	C5284808132B9C6400C094F6 /* aeroCADView.m:552 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1FE27F8C11E00C1500FFA580 /* aeroCADView.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 552;
+		location = aeroCAD;
+		modificationTime = 321626720.150048;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	C528480A132B9CF300C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F20700311E83EA30021A238 /* aeroCADXform.m */;
+		name = "aeroCADXform.m: 118";
+		rLen = 0;
+		rLoc = 2722;
+		rType = 0;
+		vrLen = 1645;
+		vrLoc = 594;
+	};
+	C5284827132B9E5100C094F6 /* aeroCADAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = aeroCADAppDelegate.m;
+		path = "/Users/jeffglaum/Documents/Hobby Projects/CAD/aeroCAD/aeroCADAppDelegate.m";
+		sourceTree = "<absolute>";
+	};
+	C528484F132BA17400C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* aeroCADAppDelegate.h */;
+		name = "aeroCADAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 705;
+		vrLoc = 0;
+	};
+	C5284850132BA17400C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F20701511E851E10021A238 /* aeroCADTypes.h */;
+		name = "aeroCADTypes.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 0;
+	};
+	C5284851132BA17400C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F455C181203163D005A2EC6 /* aeroCADCurve.h */;
+		name = "aeroCADCurve.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1357;
+		vrLoc = 0;
+	};
+	C5284852132BA17400C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FE27F8B11E00C1500FFA580 /* aeroCADView.h */;
+		name = "aeroCADView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1130;
+		vrLoc = 0;
+	};
+	C528488B132BA41500C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F20700211E83EA30021A238 /* aeroCADXform.h */;
+		name = "aeroCADXform.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 972;
+		vrLoc = 0;
+	};
+	C5284890132BA45E00C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F30F4E81209CDB8006C7037 /* aeroCADLoftedSurf.m */;
+		name = "aeroCADLoftedSurf.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2211;
+		vrLoc = 3772;
+	};
+	C5284891132BA45E00C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F455C191203163D005A2EC6 /* aeroCADCurve.m */;
+		name = "aeroCADCurve.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1249;
+		vrLoc = 0;
+	};
+	C5284892132BA45E00C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C5284827132B9E5100C094F6 /* aeroCADAppDelegate.m */;
+		name = "aeroCADAppDelegate.m: 105";
+		rLen = 5;
+		rLoc = 2384;
+		rType = 0;
+		vrLen = 1537;
+		vrLoc = 1751;
+	};
+	C5284893132BA45E00C094F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F343FF211EE3FE700F91D75 /* aeroCADCommands.h */;
+		name = "aeroCADCommands.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	C536ED9E1391D45000F6E866 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F20700911E840100021A238 /* aeroCADFileIO.m */;
+		name = "aeroCADFileIO.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 38;
+	};
+	C536ED9F1391D45000F6E866 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FE27F8C11E00C1500FFA580 /* aeroCADView.m */;
+		name = "aeroCADView.m: 453";
+		rLen = 1;
+		rLoc = 12171;
+		rType = 0;
+		vrLen = 2390;
+		vrLoc = 6736;
+	};
+	C536EDA01391D45000F6E866 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FE27F8C11E00C1500FFA580 /* aeroCADView.m */;
+		name = "aeroCADView.m: 254";
+		rLen = 0;
+		rLoc = 7157;
+		rType = 0;
+		vrLen = 1338;
+		vrLoc = 9365;
+	};
+	C547C6171321B14C0052D22F /* aeroCAD */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = aeroCAD;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	C547C61B1321B16B0052D22F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = Core;
+			};
+		};
+	};
+	C547C61C1321B16B0052D22F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C547C6251323BAAF0052D22F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F20701011E847D10021A238 /* aeroCADLighting.m */;
+		name = "aeroCADLighting.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 0;
+	};
+	C547C62B1323BAAF0052D22F /* project.pbxproj */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.pbxproject;
+		name = project.pbxproj;
+		path = "/Users/jeffglaum/Documents/Hobby Projects/CAD/aeroCAD/aeroCAD.xcodeproj/project.pbxproj";
+		sourceTree = "<absolute>";
+	};
+	C547C62D1323BAAF0052D22F /* jeffglaum.pbxuser */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = jeffglaum.pbxuser;
+		path = "/Users/jeffglaum/Documents/Hobby Projects/CAD/aeroCAD/aeroCAD.xcodeproj/jeffglaum.pbxuser";
+		sourceTree = "<absolute>";
+	};
+	C547C6321323BAAF0052D22F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F20700F11E847D10021A238 /* aeroCADLighting.h */;
+		name = "aeroCADLighting.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 0;
+	};
+	C547C6481323BC950052D22F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F30F4E71209CDB8006C7037 /* aeroCADLoftedSurf.h */;
+		name = "aeroCADLoftedSurf.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1352;
+		vrLoc = 0;
+	};
+	C547C64E1323BC950052D22F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F778D8712DAF96E00360A02 /* aeroCADIcon_512.icns */;
+	};
+	C547C69F1323BF1C0052D22F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C547C62B1323BAAF0052D22F /* project.pbxproj */;
+		name = "project.pbxproj: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 6774;
+		vrLoc = 0;
+	};
+	C547C6A81323BF460052D22F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C547C62D1323BAAF0052D22F /* jeffglaum.pbxuser */;
+		name = "jeffglaum.pbxuser: 809";
+		rLen = 0;
+		rLoc = 25479;
+		rType = 0;
+		vrLen = 1380;
+		vrLoc = 0;
+	};
+	C55B3BB6132991E900CAD826 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C56B3A2C13298E740001D4C6 /* jeffglaum.mode1v3 */;
+		name = "jeffglaum.mode1v3: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1888;
+		vrLoc = 0;
+	};
+	C56B3A2C13298E740001D4C6 /* jeffglaum.mode1v3 */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = jeffglaum.mode1v3;
+		path = "/Users/jeffglaum/Documents/Hobby Projects/CAD/aeroCAD/aeroCAD.xcodeproj/jeffglaum.mode1v3";
+		sourceTree = "<absolute>";
+	};
+	C56B3A3113298E7B0001D4C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F20700811E840100021A238 /* aeroCADFileIO.h */;
+		name = "aeroCADFileIO.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	C56B3A3213298E7B0001D4C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FCEB07812DAAC17001B9D6D /* aeroCADPointVector3D.h */;
+		name = "aeroCADPointVector3D.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	C56B3A3513298E7B0001D4C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FCEB07912DAAC17001B9D6D /* aeroCADPointVector3D.m */;
+		name = "aeroCADPointVector3D.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 837;
+		vrLoc = 0;
+	};
+	C56B3A3613298E7B0001D4C6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F49CD4912E18BC600A76E2A /* Icon1.png */;
+	};
+	C56B3A3713298E7B0001D4C6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F49CD4A12E18BC600A76E2A /* Icon2.png */;
+	};
+	C56B3A3813298E7B0001D4C6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F49CD4B12E18BC600A76E2A /* Icon3.png */;
+	};
+	C56B3A3913298E7B0001D4C6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F49CD4C12E18BC600A76E2A /* New_Line.png */;
+	};
+	C56B3A3A13298E7B0001D4C6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F49CD1B12E1814400A76E2A /* B787_planform.png */;
+	};
+}

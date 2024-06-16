@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B21F763A-6C90-4AB7-9F2D-9C7B606F3B62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>aeroCAD</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F22B67CC-EB26-4D97-8F86-59C61B7D105E</key>
+		<string>svn://guinness/CAD/aeroCAD</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/aeroCAD.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F22B67CC-EB26-4D97-8F86-59C61B7D105E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>F22B67CC-EB26-4D97-8F86-59C61B7D105E</key>
+		<string>svn://guinness</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://guinness/CAD/aeroCAD/trunk/aeroCAD.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F22B67CC-EB26-4D97-8F86-59C61B7D105E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>CAD/aeroCAD/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>CAD/aeroCAD/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>CAD/aeroCAD/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F22B67CC-EB26-4D97-8F86-59C61B7D105E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>aeroCAD</string>
+		</dict>
+	</array>
+</dict>
+</plist>
